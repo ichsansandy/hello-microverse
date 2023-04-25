@@ -50,6 +50,16 @@ It included linter for html
 
 To get a local copy up and running, follow these steps.
 
+### Prerequisites
+
+In order to run this project you need
+```sh
+  git
+  npm
+  node
+  Your favorite text editor
+```
+
 ### Setup
 
 Clone this repository to your desired folder:
@@ -58,7 +68,22 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone https://github.com/ichsansandy/hello-microverse.git
 ```
-This project just contains an index.html and style.css with linters to check any error
+
+### Install
+
+Install this project with:
+```sh
+  cd hello-microverse
+  npm install
+```
+
+### Usage
+
+To run this project:
+```sh
+  Open the index.html file in your browser or live server
+```
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
